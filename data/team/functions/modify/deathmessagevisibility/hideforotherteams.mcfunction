@@ -2,4 +2,4 @@ team modify red deathMessageVisibility hideForOtherTeams
 team modify blue deathMessageVisibility hideForOtherTeams
 team modify yellow deathMessageVisibility hideForOtherTeams
 team modify green deathMessageVisibility hideForOtherTeams
-function team:message/tellraw/modify/deathMessageVisibility/hideForOtherTeams
+function team:message/tellraw/modify/deathmessagevisibility/hideforotherteams

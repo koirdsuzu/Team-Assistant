@@ -1,6 +1,5 @@
 # 初回時のみ実行
-# バージョン変更用
-execute unless score install_check team_assistant matches 1 run function team:install/check
+execute unless score team_assistant install_check matches 1 run function team:install/check
 scoreboard objectives add install_check dummy
-scoreboard players set install_check ver 2
-scoreboard players set install_check ver2 0
+scoreboard players set ver install_check 2
+scoreboard players set ver2 install_check 0
