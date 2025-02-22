@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"透明化したチームメイトが見えるようになりました。","color":"white"},{"text":"\n","color":"white"}]

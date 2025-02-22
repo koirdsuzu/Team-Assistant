@@ -1,0 +1,2 @@
+# join_two_red_blueから実行
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"2チーム参加を実行しました。詳細は","color":"white"},{"text":"\ndatapacks:Team-Assistant-ver","color":"yellow"},{"score":{"objective":"install_check","name":"ver"},"color":"yellow"},{"text":".","color":"yellow"},{"score":{"objective":"install_check","name":"ver2"},"color":"yellow"},{"text":"/team/functions/join_two_red_blue","color":"yellow"},{"text":"\nから確認してください。\n","color":"white"}]

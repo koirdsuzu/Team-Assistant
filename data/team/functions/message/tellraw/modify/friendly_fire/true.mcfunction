@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"フレンドリーファイヤを「有効」に設定しました。","color":"white"},{"text":"\n","color":"white"}]

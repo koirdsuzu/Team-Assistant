@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"衝突判定を「常に無効」に設定しました。","color":"white"},{"text":"\n","color":"white"}]

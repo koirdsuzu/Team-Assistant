@@ -1,0 +1,2 @@
+# _setup.mcfunctionから実行
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"セットアップを実行しました。セットアップの詳細は","color":"white"},{"text":"\ndatapacks:Team-Assistant-ver","color":"yellow"},{"score":{"objective":"install_check","name":"ver"},"color":"yellow"},{"text":".","color":"yellow"},{"score":{"objective":"install_check","name":"ver2"},"color":"yellow"},{"text":"/team/functions/_setup","color":"yellow"},{"text":"\nから確認してください。\n","color":"white"}]

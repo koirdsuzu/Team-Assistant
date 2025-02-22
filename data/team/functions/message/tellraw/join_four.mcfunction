@@ -1,0 +1,2 @@
+# join_four_red_blue_yellow_greenから実行
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"4チーム参加を実行しました。詳細は","color":"white"},{"text":"\ndatapacks:Team-Assistant-ver","color":"yellow"},{"score":{"objective":"install_check","name":"ver"},"color":"yellow"},{"text":".","color":"yellow"},{"score":{"objective":"install_check","name":"ver2"},"color":"yellow"},{"text":"/team/functions/join_four_red_blue_yellow_green","color":"yellow"},{"text":"\nから確認してください。\n","color":"white"}]

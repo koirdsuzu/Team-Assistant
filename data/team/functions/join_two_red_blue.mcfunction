@@ -46,3 +46,4 @@ team join blue @r[team=]
 
 team join red @r[team=]
 team join blue @r[team=]
+function team:message/tellraw/join_two

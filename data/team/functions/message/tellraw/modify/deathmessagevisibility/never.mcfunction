@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"死亡メッセージ表示を「常に非表示」に設定しました。","color":"white"},{"text":"\n","color":"white"}]

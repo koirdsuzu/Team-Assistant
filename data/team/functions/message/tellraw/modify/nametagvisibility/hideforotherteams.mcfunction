@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"名札表示を「他チームに非表示」に設定しました。","color":"white"},{"text":"\n","color":"white"}]

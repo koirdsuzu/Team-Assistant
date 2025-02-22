@@ -1,0 +1,2 @@
+# _setup_with_formatting_executed.mcfunctionから実行
+tellraw @a [{"text":"\n[Team:Assistant]","color":"gray"},{"text":"初期化セットアップを実行しました。セットアップの詳細は","color":"white"},{"text":"\ndatapacks:Team-Assistant-ver","color":"yellow"},{"score":{"objective":"install_check","name":"ver"},"color":"yellow"},{"text":".","color":"yellow"},{"score":{"objective":"install_check","name":"ver2"},"color":"yellow"},{"text":"/team/functions/_setup_with_formatting_executed","color":"yellow"},{"text":"\nから確認してください。\n","color":"white"}]

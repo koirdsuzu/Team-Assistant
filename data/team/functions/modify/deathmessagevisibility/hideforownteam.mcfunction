@@ -1,0 +1,5 @@
+team modify red deathMessageVisibility hideForOwnTeam
+team modify blue deathMessageVisibility hideForOwnTeam
+team modify yellow deathMessageVisibility hideForOwnTeam
+team modify green deathMessageVisibility hideForOwnTeam
+function team:message/tellraw/modify/deathmessagevisibility/hideforownteam
