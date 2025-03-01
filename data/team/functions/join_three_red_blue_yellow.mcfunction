@@ -59,3 +59,4 @@ team join red @r[team=]
 team join blue @r[team=]
 team join yellow @r[team=]
 function team:message/tellraw/join_three
+function team:message/actionbar/join_team
